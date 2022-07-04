@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{360:function(e,t,c){"use strict";c.r(t);var n={middleware:function(e){return(0,e.redirect)("https://res.cloudinary.com/crowtec/image/upload/v1622369587/docs/cookies-policy.pdf")}},o=c(20),r=Object(o.a)(n,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,null,null);t.default=r.exports}}]);
