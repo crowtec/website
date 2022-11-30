@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{369:function(n,t,c){"use strict";c.r(t);var e={middleware:function(n){return(0,n.redirect)("https://assets.crowtec.co/docs/terms-and-conditions-and-privacy-policy.pdf")}},s=c(22),i=Object(s.a)(e,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);t.default=i.exports}}]);
